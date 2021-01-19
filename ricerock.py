@@ -2,6 +2,7 @@ import math
 import random
 import simplegui
 # globals for user interface
+#########################
 WIDTH = 800
 HEIGHT = 600
 score = 0
