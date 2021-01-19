@@ -3,7 +3,6 @@ import random
 import simplegui
 # globals for user interface
 <<<<<<< HEAD
-#########################
 WIDTH = 800
 =======
 WIDTH = 8
