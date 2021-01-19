@@ -2,7 +2,7 @@ import math
 import random
 import simplegui
 # globals for user interface
-WIDTH = 800
+WIDTH = 8
 HEIGHT = 600
 score = 0
 lives = 3
